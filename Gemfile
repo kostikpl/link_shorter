@@ -14,6 +14,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 group :development, :test do
   gem 'rspec-rails'
   gem 'byebug'
+  gem 'pry-byebug'
 end
 
 group :development do
